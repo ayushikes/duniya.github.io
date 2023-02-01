@@ -473,7 +473,7 @@ border-color: var(--orange);
 
 
 footer{
-	position: fixed;
+	position: static;
 	bottom: 0;
 }
 
